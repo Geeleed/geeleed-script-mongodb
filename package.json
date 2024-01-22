@@ -1,5 +1,5 @@
 {
-  "name": "@geeleed/geeleed-script-mongodb",
+  "name": "geeleed-script-mongodb",
   "version": "1.0.0",
   "description": "access and operate the mongodb with simple script",
   "main": "index.js",
