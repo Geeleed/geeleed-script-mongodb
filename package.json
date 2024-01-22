@@ -1,0 +1,19 @@
+{
+  "name": "geeleed-script-mongodb",
+  "version": "1.0.0",
+  "description": "access and operate the mongodb with simple script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "access-mongodb",
+    "access-operate-mongodb"
+  ],
+  "author": "geeleed",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
